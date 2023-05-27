@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 NOT FOUND DevChallenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://64719bd012cf413d48a843a2--classy-queijadas-b020b5.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Preetiraj3697/404-Not-found-devChallenge">
       Solution
     </a>
     <span> | </span>
@@ -39,12 +39,7 @@
 ![screenshot](laptop.png)
 ![screenshot](mobile.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -69,6 +64,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@Preetiraj3697](https://github.com/Preetiraj3697)
-- Linkdin [@your-twitter](https://{twitter.com/your-username})
+- Website [preetiraj3697.github.io](https://preetiraj3697.github.io/)
+- GitHub [Preetiraj3697](https://github.com/Preetiraj3697)
+- Linkedin [Preetiraj3697](https://www.linkedin.com/in/preetiraj3697/)
